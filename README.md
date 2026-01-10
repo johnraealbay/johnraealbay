@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnraealbay&show_icons=true&locale=en" alt="johnraealbay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnraealbay&" alt="johnraealbay" /></p>
+
+<img src="https://raw.githubusercontent.com/johnraealbay/johnraealbay/output/snake.svg" alt="Snake animation" />
+
+###
