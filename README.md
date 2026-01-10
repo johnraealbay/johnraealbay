@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnrae Albay</h1>
 <h3 align="center">I am a junior developer passionate about learning new technologies and writing clean, efficient code. I am continuously developing my skills by working on practical projects and challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnraealbay&label=Profile%20views&color=0e75b6&style=flat" alt="johnraealbay" /> </p>
-
 - 🌱 I’m currently learning **Frameworks, Software Development and Web Development**
 
 - 🤝 I’m looking for help with **Senior Developers**
