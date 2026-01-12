@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnrae Albay</h1>
-<h3 align="center">I am a junior developer passionate about learning new technologies and writing clean, efficient code. I am continuously developing my skills by working on practical projects and challenges.</h3>
+<h3 align="center">I am a Junior Developer passionate about learning new technologies and writing clean, efficient code. I am continuously developing my skills by working on practical projects and challenges.</h3>
 
 - 🌱 I’m currently learning **Frameworks, Software Development and Web Development**
 
