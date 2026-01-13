@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Software Development and Web Development**
 
-- 🤝 I’m looking for help with **Senior Developers**
+- 🤝 I’m looking for help with **Senior Developers and Software Engineers**
 
 - 👨‍💻 All of my projects are available at [johnraealbay.github.io.git](johnraealbay.github.io.git)
 
