@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact about me **Playing Online Games, Watching Marvel Movies and Programming Tutorials**
 
-# <h3 align="left">Connect with me:</h3>
+# <h3 align="right">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johnrae-albay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrae-albay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17008767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17008767" height="30" width="40" /></a>
