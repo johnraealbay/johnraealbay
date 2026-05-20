@@ -1,6 +1,6 @@
 # Hi 👋, I'm Johnrae Albay
 
-- 🔭 I'm currently working on **Web Development**
+- 🔭 I'm currently working on **Software Development** 
 
 - 🌱 I'm currently learning **Frameworks, Software Development and Web Development**
 
