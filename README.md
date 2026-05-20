@@ -1,9 +1,5 @@
 # Hi 👋, I'm Johnrae Albay
 
-### Hi I'm Johnrae Albay
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnraealbay&label=Profile views&color=0e75b6&style=flat" alt="johnraealbay" /> </p>
-
 - 🔭 I'm currently working on **Web Development**
 
 - 🌱 I'm currently learning **Frameworks, Software Development and Web Development**
