@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **johnrae2002@gmail.com**
 
-- ⚡ Fun fact Playing Online Games, Watching Marvel Movies and Coding.
+- ⚡ Fun fact Playing Online Games, Watching Marvel Movies and Programming Tutorials.
 
 - 👨‍💻 All of my projects are available at **[https://johnraealbay.github.io](https://github.com/johnraealbay)**
 
