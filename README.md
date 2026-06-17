@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://johnraealbay.github.io](https://johnraealbay.github.io)**
 
-- 📄 Know about my experiences **[ https://drive.google.com/file/d/1ocWPObsZzxmatmh83fqXI3H1NGJrK9zG/view?usp=sharing]( https://drive.google.com/file/d/1ocWPObsZzxmatmh83fqXI3H1NGJrK9zG/view?usp=sharing)**
+- 📄 Know about my experiences **[ https://drive.google.com/file/d/1ocWPObsZzxmatmh83fqXI3H1NGJrK9zG/view?usp=sharing]( https://drive.google.com/file/d/18I5J2YA_6kBk6e1xhfjJ--LAJuj8a1hB/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
