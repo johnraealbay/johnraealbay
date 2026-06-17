@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact Playing Online Games, Watching Marvel Movies and Coding.
 
-- 👨‍💻 All of my projects are available at **[https://johnraealbay.github.io](https://johnraealbay.github.io)**
+- 👨‍💻 All of my projects are available at **[https://johnraealbay.github.io](https://github.com/johnraealbay)**
 
 - 📄 Know about my experiences **[ https://drive.google.com/file/d/1ocWPObsZzxmatmh83fqXI3H1NGJrK9zG/view?usp=sharing]( https://drive.google.com/file/d/18I5J2YA_6kBk6e1xhfjJ--LAJuj8a1hB/view?usp=sharing)**
 
