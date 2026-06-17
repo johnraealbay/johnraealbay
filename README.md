@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **Software Development** 
 
-- 🌱 I'm currently learning **Frameworks, Software Development and Web Development**
+- 🌱 I'm currently learning **Frameworks, Software Development and Networking**
 
 - 🤝 I'm looking for help with **Senior Developers and Software Engineers**
 
